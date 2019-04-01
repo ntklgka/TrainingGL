@@ -10,4 +10,8 @@ Part 2: Lighting
 
 ![alt text](https://i.imgur.com/uxz6Vvz.png)
 
-In this first exercise, I have set up a small white cube which acts as a light source. On the shader code for the big cube, I have implemented the Blinn-Phong Reflection model.
+We set up a small white cube which acts as a light source. On the shader code for the big cube, we have implemented the Blinn-Phong Reflection model.
+
+![alt text](https://i.imgur.com/yrsgdex.png)
+
+Implemented diffuse and specular maps, which greatly help with simulating how light affects different material properties of an object
