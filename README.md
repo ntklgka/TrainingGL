@@ -23,3 +23,7 @@ Attenuation, the light doesnt have a constant intensity anymore. Objects on the 
 ![alt text](https://i.imgur.com/18ssyaB.png)
 
 Spotlight, simulated a flashlight emanating from the camera position.
+
+![alt text](https://i.imgur.com/ryRaMTh.png)
+
+A scene with Directional, Spot and Point Lights
