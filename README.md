@@ -14,7 +14,7 @@ We set up a small white cube which acts as a light source. On the shader code fo
 
 ![alt text](https://i.imgur.com/yrsgdex.png)
 
-Implemented diffuse and specular maps, which greatly help with simulating how light affects different material properties of an object.
+Implemented diffuse and specular maps, which greatly helps with simulating how light affects different material properties of an object.
 
 ![alt text](https://i.imgur.com/LAuiCbS.png)
 
