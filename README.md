@@ -4,7 +4,7 @@ Part 1: Getting Started
 
 ![alt text](https://i.imgur.com/PxElU9F.png)
 
-We can freely move through this scene with FPS-style camera
+We can freely move through this scene with FPS-style camera.
 
 Part 2: Lighting
 
@@ -14,4 +14,12 @@ We set up a small white cube which acts as a light source. On the shader code fo
 
 ![alt text](https://i.imgur.com/yrsgdex.png)
 
-Implemented diffuse and specular maps, which greatly help with simulating how light affects different material properties of an object
+Implemented diffuse and specular maps, which greatly help with simulating how light affects different material properties of an object.
+
+![alt text](https://i.imgur.com/LAuiCbS.png)
+
+Attenuation, the light doesnt have a constant intensity anymore. Objects on the back will receive less light.
+
+![alt text](https://i.imgur.com/18ssyaB.png)
+
+Spotlight, simulated a flashlight emanating from the camera position.
