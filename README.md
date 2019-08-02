@@ -27,3 +27,11 @@ Spotlight, simulated a flashlight emanating from the camera position.
 ![alt text](https://i.imgur.com/ryRaMTh.png)
 
 A scene with Directional, Spot and Point Lights
+
+Part 3: Models
+
+![alt text](https://i.imgur.com/hYfwHtH.png)
+
+Succesfully loaded the crysis model and textures into the scene
+
+![alt text](https://i.imgur.com/dmefqgz.png)
